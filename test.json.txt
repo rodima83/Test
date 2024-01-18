@@ -1,2 +1,5 @@
-{"name":
-"hello world"}
+{
+    "name":"hello world",
+    "age":40
+    friday
+}
